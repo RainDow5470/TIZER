@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://raindow5470.github.io/TIZER/sitemap-main.xml
+Sitemap: https://www.stream-girls.online/sitemap.xml
 
 
